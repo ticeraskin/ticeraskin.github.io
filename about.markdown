@@ -13,9 +13,6 @@ permalink: /about/
 
     <h3>Work In Progress</h3>
     <ul>
-      <li>Forward Guidance and the Mitigation Hypothesis</li>
-      <li>R&D and Economic Growth: County-Level Evidence</li>
-      <li>Labor Market Dynamics and Policy Interventions</li>
     </ul>
 
     <h3>Contact</h3>
