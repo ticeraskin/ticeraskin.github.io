@@ -23,8 +23,8 @@ title: Home
           </details>
       </li>
     </ul>
-    <h3>Contact</h3>
-    <p>Email: <a href="mailto:ticeraskin@wisc.edu">ticeraskin@wisc.edu</a></p>
-    <p>GitHub: <a href="https://github.com/ticeraskin">github.com/ticeraskin</a></p>
+<h3>Contact</h3>
+<p>Email: <a href="mailto:ticeraskin@wisc.edu">ticeraskin@wisc.edu</a></p>
+<p>GitHub: <a href="https://github.com/ticeraskin">github.com/ticeraskin</a></p>
   </div>
 </div>
