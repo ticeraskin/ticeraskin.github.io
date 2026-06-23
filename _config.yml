@@ -23,7 +23,7 @@ email: ""
 description: ""
 baseurl: ""
 url: ""
-github_username: ticeraskin
+github_username: ""
 theme: minima
 plugins:
   - jekyll-feed
